@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Construcción, diseño de interiores, dirección de obra, proyectos, estudios, remodelaciones, diseño de gasolineras, construcción de edificios.  " />
+  <meta name="rights" content="JC DISEÑO 2017" />
+  <meta name="description" content="Somos un grupo de arquitectos comprometidos con la sociedad, conscientes de lo que hoy se hace impactará en el mañana." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>jc Diseño</title>
+  <link href="http://jcdiseno.com/index.php" rel="canonical" />
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/cubic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css?v=2.9.0" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/bdthemes_shortcodes/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/jpreloader.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/flexslider.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/plugin.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/prettyPhoto.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/owl.carousel.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/owl.theme.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/owl.transitions.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/color.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/dark.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/custom-style.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/rs-plugin/css/settings.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/css/rev-settings.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/fonts/font-awesome/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/fonts/elegant_font/HTML_CSS/style.css" type="text/css" />
+  <link rel="stylesheet" href="templates/cubic/fonts/et-line-font/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_cp_social/css/social_style.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jsnframework/assets/joomlashine/css/jsn-gui.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jsnframework/assets/3rd-party/jquery-tipsy/tipsy.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_uniform/assets/css/form.css" type="text/css" />
+  <link rel="stylesheet" href="/index.php?option=com_uniform&amp;view=form&amp;task=generateStylePages&amp;form_id=1" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sp_portfolio/assets/css/mod_sp_portfolio_default.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sp_portfolio/assets/css/slimbox2.css" type="text/css" />
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/k2/assets/js/k2.frontend.js?v=2.9.0&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/plugins/system/bdthemes_shortcodes/js/shortcode-ultimate.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/components/com_uniform/assets/js/jsn_uf_jquery_safe.js" type="text/javascript"></script>
+  <script src="/components/com_uniform/assets/js/libs/jquery.placeholder.js" type="text/javascript"></script>
+  <script src="/components/com_uniform/assets/js/libs/json-2.3.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/jsnframework/assets/3rd-party/jquery-tipsy/jquery.tipsy.js" type="text/javascript"></script>
+  <script src="/plugins/system/jsnframework/assets/3rd-party/jquery-scrollto/jquery.scrollTo.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/components/com_uniform/assets/js/form.js" type="text/javascript"></script>
+  <script src="/components/com_uniform/assets/js/jsn_uf_conflict.js" type="text/javascript"></script>
+  <script src="/modules/mod_sp_portfolio/assets/js/jquery.isotope.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_sp_portfolio/assets/js/slimbox2.js" type="text/javascript"></script>
+  <script src="/modules/mod_pr_slider/js/jquery.mb.YTPlayer.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+	
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+<!-- BEGIN Advanced Google Analytics - http://deconf.com/advanced-google-analytics-joomla/ -->
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-93882390-2', 'auto');  
+  
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+<!-- END Advanced Google Analytics -->
+
+
+</head>
+
+<body id="homepage" class="dark">
+	<div style="position:absolute;top:0;left:-9999px;">
+<a href="http://joomlalock.com" title="JoomlaLock - Free download premium joomla templates & extensions" target="_blank">All for Joomla</a>
+<a href="http://all4share.net" title="ALL4SHARE - Free Download Nulled Scripts, Premium Themes, Graphics Design" target="_blank">All for Webmasters</a>
+</div>	
+    <div id="wrapper">
+        <div class="page-overlay"></div>
+
+		        <!-- header begin -->
+        <header>
+            <div class="menu-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- logo begin -->
+                        <h1 id="logo">
+                            <a href="">
+                                <img class="logo-1" src="http://jcdiseno.com/images/logo/logo_final_home_5.png" alt="jc Diseño" />                                <img class="logo-2" src="http://jcdiseno.com/images/logo/logo_final_home_1.png" alt="jc Diseño" />                            </a>
+                        </h1>
+                        <!-- logo close -->
+
+                        <!-- small button begin -->
+                        <span id="menu-btn"></span>
+                        <!-- small button close -->
+
+                        <!-- mainmenu begin -->
+												<nav>
+                        			<div class="moduletable_menu">
+						
+<ul id="mainmenu">
+<li class="item-101 current"><a href="/index.php?option=com_content&amp;view=featured&amp;Itemid=101" >Inicio</a></li><li class="item-130">	<a href="#section-about" >Acerca</a></li><li class="item-132">	<a href="#section-services" >Servicios</a></li><li class="item-133 deeper parent">	<a class="dropdown-toggle scroll" href="#section-portfolio"  >Proyectos<b data-toggle="dropdown" class="caret"></b></a><ul class="nav-child unstyled small"><li class="item-134"><a href="/index.php?option=com_content&amp;view=featured&amp;Itemid=134" >Ver todos los proyectos</a></li></ul></li><li class="item-136">	<a href="#section-blog" >Blog</a></li><li class="item-138">	<a href="#section-contact" >Contacto</a></li></ul>		</div>
+	
+						</nav>
+                        
+                    </div>
+                    <!-- mainmenu close -->
+
+                </div>
+            </div>
+            </div>
+        </header>
+        <!-- header close -->
+				
+        <!-- content begin -->
+		        <div id="content" class="no-bottom no-top">
+
+			                   		<div class="moduletable">
+						
+<section id="section-welcome" class="full-height dark" data-speed="3" data-type="background" style="background:url(images/bg-5.jpg) ">
+            <div class="center-y text-center">
+			                    <p>CALIDAD / EXCELENCIA / OPORTUNIDAD</p>				                <div class="spacer-single"></div>
+                    <div class="text-slider border-deco">
+																														</div>
+					                    <div class="spacer-single"></div>
+                    <a href="#section-portfolio" class="btn btn-border btn-big">Ver nuestros proyectos</a>
+									</div>
+ </section>
+
+  
+                   	
+	
+			</div>
+	
+           
+			
+			            <!-- section begin -->
+            <section id="section-about">
+                <div class="container">
+                    <div class="row">
+								<div class="moduletable">
+						
+
+<div class="custom"  >
+	<h2>Somos un grupo de arquitectos comprometidos con la sociedad, conscientes de lo que hoy se hace impactar&aacute; en el ma&ntilde;ana.</h2>
+<p class="intro">&nbsp;</p>
+<div class="row">
+<div class="col-md-6">
+<h3>Nuestra Visi&oacute;n</h3>
+<p style="text-align: justify;">Empresa l&iacute;der en el ramo del dise&ntilde;o con ideas siempre de vanguardia, creadores de arquitectura que surge de un concienzudo an&aacute;lisis de las necesidades de clientes y usuarios. Proveedor de soluciones innovadoras y de alta calidad en el ramo de la construcci&oacute;n jc dise&ntilde;o - chav&eacute;z - leal y asociados s.a. de c.v. es sin&oacute;nimo de oportunidad e integralidad con un alto perfil humano, profesional y &eacute;tico de nuestro equipo de trabajo.</p>
+<p style="text-align: justify;">Empresa con altos est&aacute;ndares de calidad y desarrollo t&eacute;cnico-tecnol&oacute;gico resultado de la capacitaci&oacute;n continua de nuestros colaboradores.</p>
+</div>
+<div class="col-md-6">
+<h3>Nuestra Misi&oacute;n</h3>
+<p style="text-align: justify;">Ayudar a nuestros clientes a alcanzar sus metas de negocio proporcion&aacute;ndoles soluciones innovadoras, rentables, sostenibles y responsables mediante la implementaci&oacute;n de dise&ntilde;os de primer nivel y soluciones constructivas integrales que permitan la optimizaci&oacute;n de los recursos materiales, humanos y financieros.</p>
+<p style="text-align: justify;">Nos dirigimos al sector privado empresarial, clientes individuales, as&iacute; como a entidades p&uacute;blicas y/o gubernamentales.</p>
+</div>
+</div>
+</div>
+		</div>
+	
+                    </div>
+                </div>
+            </section>
+            <!-- section close -->
+						
+						
+			
+			           
+
+            
+			            <!-- section begin -->
+            <section id="section-services" class="no-bottom">
+                <div class="container">
+                   
+                    		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<h1 class="animated" data-animation="fadeInUp">Nuestros <span class="id-color">Servicios</span> <span class="small-border animated" data-animation="fadeInUp"></span></h1>
+<p class="lead animated fadeInUp" data-animation="fadeInUp">Permitimos y aseguramos que las ideas audaces prosperen, d&iacute;a a d&iacute;a.</p>
+</div>
+</div>
+<div class="row"><!-- feature box begin -->
+<div class="feature-box-small-icon col-md-4 animated" data-animation="fadeInUp" data-delay="0">
+<div class="inner"><i class="icon-tools"></i>
+<div class="text">
+<h3>Estudios</h3>
+Se realizan todos los an&aacute;lisis y estudios pertinentes de viabilidad para la ejecuci&oacute;n y construcci&oacute;n de los proyectos.</div>
+</div>
+</div>
+<!-- feature box close --> <!-- feature box begin -->
+<div class="feature-box-small-icon col-md-4 animated" data-animation="fadeInUp" data-delay="200">
+<div class="inner"><i class="icon-global"></i>
+<div class="text">
+<h3>Proyectos</h3>
+Los proyectos se ejecutan de manera integral, desde el punto de vista Arquitect&oacute;nico, Urbano y de Ingenier&iacute;a, con la asesor&iacute;a de especialistas externos dependiendo de las necesidades del mismo.</div>
+</div>
+</div>
+<!-- feature box close --> <!-- feature box begin -->
+<div class="feature-box-small-icon col-md-4 animated" data-animation="fadeInUp" data-delay="400">
+<div class="inner"><i class="icon-megaphone"></i>
+<div class="text">
+<h3>Construcci&oacute;n</h3>
+Los proyectos se ejecutan de manera integral, desde el punto de vista Arquitect&oacute;nico, Urbano y de Ingenier&iacute;a, con la asesor&iacute;a de especialistas externos dependiendo de las necesidades del mismo.</div>
+</div>
+</div>
+<!-- feature box close --> <!-- feature box begin -->
+<div class="feature-box-small-icon col-md-4 animated" data-animation="fadeInUp" data-delay="600">
+<div class="inner"><i class="icon-phone"></i>
+<div class="text">
+<h3>Direcci&oacute;n de obra</h3>
+Supervisi&oacute;n de obra, direccion, administracion y gerencia de proyectos.</div>
+</div>
+</div>
+<!-- feature box close --> <!-- feature box begin -->
+<div class="spacer-single">&nbsp;</div>
+<div class="col-md-12 text-center animated" data-animation="fadeInUp" data-delay="400"><img src="images/Captura_de_pantalla_2017-03-08_a_las_3.01.56_p.png" alt="Captura de pantalla 2017 03 08 a las 3.01.56 p" class="img-responsive" /></div>
+</div></div>
+		</div>
+	
+                    
+                </div>
+            </section>
+		 <!-- section close -->
+            
+
+            			
+			            <!-- section begin -->
+            <section id="section-portfolio" class="no-bottom">
+                		<div class="moduletable">
+						
+<!--/Ajax Load-->
+
+<div id="sp-portfolio-module-114" class="sp-portfolio ">
+	<div class="container">
+				
+			                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <h1 class="animated" data-animation="fadeInUp">Nuestros Proyectos                                <span class="small-border animated" data-animation="fadeInUp"></span>
+                            </h1>
+                            <div class="spacer-single"></div>
+                        </div>
+                    </div>
+										
+	<div class="row">
+    <div class="col-md-12 text-center">
+						<ul id="filters" class="animated" data-animation="fadeInUp" data-delay="200">
+				<li><a class="btn selected" data-filter="*">Show All</a></li>
+									<li>
+						<a class="btn" data-filter=".dise--o">
+							Diseño						</a>
+					</li>
+									<li>
+						<a class="btn" data-filter=".construcci--n">
+							Construcción						</a>
+					</li>
+							</ul>
+				</div>
+	</div>
+	</div>
+	<div class="spacer-single"></div>
+				<div id="gallery" class="sp-portfolio-items gallery full-gallery de-gallery pf_full_width animated" data-animation="fadeInUp" data-delay="200">
+		
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 dise--o">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 1" href="http://jcdiseno.com/images/portfolio/portafolio_1.png" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Diseño</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_1.png" alt="Project Title # 1" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 construcci--n">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 10" href="http://jcdiseno.com/images/portfolio/portafolio_10.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Construcción</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_10.jpg" alt="Project Title # 10" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 construcci--n">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 11" href="http://jcdiseno.com/images/portfolio/portafolio_11.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Construcción</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_11.jpg" alt="Project Title # 11" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 construcci--n">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 13" href="http://jcdiseno.com/images/portfolio/portafolio_13.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Construcción</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_13.jpg" alt="Project Title # 13" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 dise--o">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 14" href="http://jcdiseno.com/images/portfolio/portafolio_14.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Diseño</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_14.jpg" alt="Project Title # 14" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 construcci--n">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 15" href="http://jcdiseno.com/images/portfolio/portafolio_15.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Construcción</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_15.jpg" alt="Project Title # 15" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 construcci--n">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 16" href="http://jcdiseno.com/images/portfolio/portafolio_16.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Construcción</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_16.jpg" alt="Project Title # 16" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 construcci--n">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 17" href="http://jcdiseno.com/images/portfolio/portafolio_17.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Construcción</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_17.jpg" alt="Project Title # 17" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 dise--o">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 18" href="http://jcdiseno.com/images/portfolio/portafolio_18.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Diseño</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_18.jpg" alt="Project Title # 18" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 dise--o">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 19" href="http://jcdiseno.com/images/portfolio/portafolio_19.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Diseño</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_19.jpg" alt="Project Title # 19" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 dise--o">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 2" href="http://jcdiseno.com/images/portfolio/portafolio_2.png" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Diseño</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_2.png" alt="Project Title # 2" />
+							                        </div>
+                    </div>
+				
+			
+                    <!-- gallery item -->
+                    <div class="item col-2 dise--o">
+                        <div class="picframe">
+                            <span class="overlay">
+                                <span class="icon">
+                                    <a title="Project Title # 20" href="http://jcdiseno.com/images/portfolio/portafolio_20.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                </span>
+								                                <span class="pf_text">
+								
+																
+																			<span>Diseño</span>
+										
+                                   
+                                </span>
+                            </span>
+
+                            <img src="http://jcdiseno.com/images/portfolio/portafolio_20.jpg" alt="Project Title # 20" />
+							                        </div>
+                    </div>
+				
+					</div><!--/.sp-portfolio-items-->
+
+		
+
+	</div><!--/.sp-portfolio-->
+
+<!-- section begin -->
+            <section id="view-all-projects" class="call-to-action bg-color dark text-center" data-speed="5" data-type="background">
+                <a href="http://jcdiseno.com/index.php/works/more-works" class="btn btn-border btn-big">Ver todos los proyectos</a>
+            </section>
+            <!-- logo carousel section close -->
+
+
+	<script type="text/javascript">
+		jQuery.noConflict();
+			window.addEvent('load', function(){
+				jQuery(function($){
+				var $gallery = $('.sp-portfolio-items');
+
+				
+			$gallery.isotope({
+				// options
+				itemSelector : 'li',
+				layoutMode : 'fitRows'
+					
+				});
+
+				$filter = $('.sp-portfolio-filter');
+				$selectors = $filter.find('>li>a');
+
+				$filter.find('>li>a').click(function(){
+					var selector = $(this).attr('data-filter');
+
+					$selectors.removeClass('active');
+					$(this).addClass('active');
+
+					$gallery.isotope({ filter: selector });
+					return false;
+				});
+
+				var $currentURL = 'http://jcdiseno.com/plugins/system/bdthemes_shortcodes/css/font-awesome.css';
+				var $start = 12;  // ajax start from last limit
+				var $limit = 3;
+				var $totalitem = 35;
+
+				$('.sp-portfolio-loadmore > a').on('click', function(e){
+					var $this = $(this);
+					$this.removeClass('done').addClass('loading');
+					$.get($currentURL, { moduleID: 114, start:$start, limit: $limit }, function(data){
+						
+						$start += $limit;
+						var $newItems = $(data);
+						$gallery.isotope( 'insert', $newItems );
+
+						if( $totalitem <= $start ){
+
+							$this.removeClass('loading').addClass('hide');
+
+							// AUTOLOAD CODE BLOCK (MAY BE CHANGED OR REMOVED)
+							if (!/android|iphone|ipod|series60|symbian|windows ce|blackberry/i.test(navigator.userAgent)) {
+								jQuery(function($) {
+									$("a[rel^='lightbox']").slimbox({/* Put custom options here */}, null, function(el) {
+										return (this == el) || ((this.rel.length > 8) && (this.rel == el.rel));
+									});
+								});
+							}
+							////
+							return false;
+
+						} else {
+							$this.removeClass('loading').addClass('done');
+						
+							// AUTOLOAD CODE BLOCK (MAY BE CHANGED OR REMOVED)
+							if (!/android|iphone|ipod|series60|symbian|windows ce|blackberry/i.test(navigator.userAgent)) {
+								jQuery(function($) {
+									$("a[rel^='lightbox']").slimbox({/* Put custom options here */}, null, function(el) {
+										return (this == el) || ((this.rel.length > 8) && (this.rel == el.rel));
+									});
+								});
+							}
+						}
+					});
+
+					return false;
+				});
+			});
+		});
+	</script>
+		</div>
+	              
+            </section>
+            <!-- section close -->
+			
+           
+
+			
+
+			            <!-- section begin -->
+            <section id="section-blog">
+                <div class="container">
+							<div class="moduletable">
+						
+					 <div class="row">
+                        <div class="col-md-6 col-md-offset-3 text-center">
+                            <h1 class="animated" data-animation="fadeInUp">Nuestro Blog                                <span class="small-border animated" data-animation="fadeInUp"></span>
+                            </h1>
+                            <p class="lead animated" data-animation="fadeInUp"></p>
+                            <div class="spacer-single"></div>
+                        </div>
+                    </div>
+					
+					<div class="animated" data-animation="fadeInUp" data-delay="200">
+						                        <div class="col-md-4 bloglist">
+                            <div class="post-content">
+							                                <div class="post-image">
+                                    <div class="flexslider blog-slider">
+                                        <div class="overlay">
+                                        </div>
+                                                <img src="images/blog/22173.jpeg" alt="" />
+                                            
+                                    </div>
+
+                                </div>
+																
+								                                <div class="date-box"><span class="day">09</span> <span class="month">Mar</span> </div>
+                                								<div class="post-text">
+																	<h3>
+																				<a href="/index.php?option=com_content&amp;view=article&amp;id=37:se-construira-el-primer-rascacielos-giratorio-en-dubai&amp;catid=12:blog-j-c&amp;Itemid=164">
+											
+                                       Se construirá...																				</a>
+											
+									</h3>
+								 
+								<div class="blog_info">
+																
+																
+																</div>
+								
+								 
+								
+                                        <br>
+								 
+                                </div>
+                            </div>
+                        </div>
+						                        <div class="col-md-4 bloglist">
+                            <div class="post-content">
+							                                <div class="post-image">
+                                    <div class="flexslider blog-slider">
+                                        <div class="overlay">
+                                        </div>
+                                                <img src="images/blog/20129-1.jpeg" alt="" />
+                                            
+                                    </div>
+
+                                </div>
+																
+								                                <div class="date-box"><span class="day">09</span> <span class="month">Mar</span> </div>
+                                								<div class="post-text">
+																	<h3>
+																				<a href="/index.php?option=com_content&amp;view=article&amp;id=38:wordl-tra&amp;catid=12:blog-j-c&amp;Itemid=164">
+											
+                                       Once años...																				</a>
+											
+									</h3>
+								 
+								<div class="blog_info">
+																
+																
+																</div>
+								
+								 
+								
+                                        <br>
+								 
+                                </div>
+                            </div>
+                        </div>
+						                        <div class="col-md-4 bloglist">
+                            <div class="post-content">
+							                                <div class="post-image">
+                                    <div class="flexslider blog-slider">
+                                        <div class="overlay">
+                                        </div>
+                                                <img src="images/boletin/redes_jcdiseno_1.png" alt="" />
+                                            
+                                    </div>
+
+                                </div>
+																
+								                                <div class="date-box"><span class="day">09</span> <span class="month">Mar</span> </div>
+                                								<div class="post-text">
+																	<h3>
+																				<a href="/index.php?option=com_content&amp;view=article&amp;id=39:construcc&amp;catid=12:blog-j-c&amp;Itemid=164">
+											
+                                       Construcción de...																				</a>
+											
+									</h3>
+								 
+								<div class="blog_info">
+																
+																
+																</div>
+								
+								 
+								
+                                        <br>
+								 
+                                </div>
+                            </div>
+                        </div>
+						                        <div class="col-md-4 bloglist">
+                            <div class="post-content">
+							                                <div class="post-image">
+                                    <div class="flexslider blog-slider">
+                                        <div class="overlay">
+                                        </div>
+                                                <img src="images/blog/reciclaje_rubano_jcdiseno.png" alt="" />
+                                            
+                                    </div>
+
+                                </div>
+																
+								                                <div class="date-box"><span class="day">09</span> <span class="month">Mar</span> </div>
+                                								<div class="post-text">
+																	<h3>
+																				<a href="/index.php?option=com_content&amp;view=article&amp;id=40:construcc-2&amp;catid=12:blog-j-c&amp;Itemid=164">
+											
+                                       LA OTRA...																				</a>
+											
+									</h3>
+								 
+								<div class="blog_info">
+																
+																
+																</div>
+								
+								 
+								
+                                        <br>
+								 
+                                </div>
+                            </div>
+                        </div>
+						                        <div class="col-md-4 bloglist">
+                            <div class="post-content">
+							                                <div class="post-image">
+                                    <div class="flexslider blog-slider">
+                                        <div class="overlay">
+                                        </div>
+                                                <img src="" alt="" />
+                                            
+                                    </div>
+
+                                </div>
+																
+								                                <div class="date-box"><span class="day">28</span> <span class="month">Abr</span> </div>
+                                								<div class="post-text">
+																	<h3>
+																				<a href="">
+											
+                                       																				</a>
+											
+									</h3>
+								 
+								<div class="blog_info">
+																
+																
+																</div>
+								
+								 
+								
+                                        <br>
+								 
+                                </div>
+                            </div>
+                        </div>
+						                        <div class="col-md-4 bloglist">
+                            <div class="post-content">
+							                                <div class="post-image">
+                                    <div class="flexslider blog-slider">
+                                        <div class="overlay">
+                                        </div>
+                                                <img src="" alt="" />
+                                            
+                                    </div>
+
+                                </div>
+																
+								                                <div class="date-box"><span class="day">28</span> <span class="month">Abr</span> </div>
+                                								<div class="post-text">
+																	<h3>
+																				<a href="">
+											
+                                       																				</a>
+											
+									</h3>
+								 
+								<div class="blog_info">
+																
+																
+																</div>
+								
+								 
+								
+                                        <br>
+								 
+                                </div>
+                            </div>
+                        </div>
+						                    </div>
+
+
+
+
+
+		</div>
+	
+				</div>
+            </section>
+            <!-- section close -->
+			
+			
+
+                        <!-- section begin -->
+            <section id="section-contact" class="dark" data-speed="5" data-type="background">
+                <div class="container">
+                    <div class="row">
+									<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="col-md-12 text-center">
+<h1 class="animated" data-animation="fadeInUp">Contáctanos&nbsp; <span class="small-border animated" data-animation="fadeInUp"><br /></span></h1>
+</div>
+</div>
+		</div>
+			<div class="moduletableforms">
+						<div class="jsn-uniform jsn-master" data-form-name='50082dbdf8fbb5d41b8e143087b18fb0' id='jsn_form_1'><div class="jsn-bootstrap"><span style="font-size: 12pt;"><strong>Río Misisipi No. 49 Depto. 1402 Piso 14 Col. Cuauhtémoc, Delegación Cuauhtémoc, C.P. 06500</strong></span>
+<p><br />administracion@jcdiseno.com<br />jcdiseno.com <br />41 64 32 27</p><form name='form_50082dbdf8fbb5d41b8e143087b18fb0' data-ajaxupload='0' id='form_50082dbdf8fbb5d41b8e143087b18fb0' action="http://jcdiseno.com/index.php?option=com_uniform&amp;view=form&amp;task=form.save&amp;form_id=1" method="post" class="form-validate default " enctype="multipart/form-data" autocomplete="off"><span class="hide jsn-language" style="display:none;" data-value='{"JSN_UNIFORM_CHARACTERS":"Characters","JSN_UNIFORM_WORDS":"Words","JSN_UNIFORM_CONFIRM_FIELD_PASSWORD_MIN_MAX_CHARACTER":"The password must contain minimum %mi% and maximum %mx% character(s)","JSN_UNIFORM_CONFIRM_FIELD_EMAIL_CONFIRM":"Ambas direcciones de e-mail deben ser las mismas.","JSN_UNIFORM_CONFIRM_FIELD_MIN_NUMBER":"El n\u00famero no puede ser menos de","JSN_UNIFORM_CONFIRM_FIELD_MAX_NUMBER":"El n\u00famero no puede ser mayor de","JSN_UNIFORM_DATE_HOUR_TEXT":"Hora","JSN_UNIFORM_DATE_MINUTE_TEXT":"Minuto","JSN_UNIFORM_DATE_CLOSE_TEXT":"Cerrar","JSN_UNIFORM_DATE_PREV_TEXT":"Previo","JSN_UNIFORM_DATE_NEXT_TEXT":"Siguiente","JSN_UNIFORM_DATE_CURRENT_TEXT":"Hoy","JSN_UNIFORM_DATE_MONTH_JANUARY":"Enero","JSN_UNIFORM_DATE_MONTH_FEBRUARY":"Febrero","JSN_UNIFORM_DATE_MONTH_MARCH":"Marzo","JSN_UNIFORM_DATE_MONTH_APRIL":"Abril","JSN_UNIFORM_DATE_MONTH_MAY":"Mayo","JSN_UNIFORM_DATE_MONTH_JUNE":"Junio","JSN_UNIFORM_DATE_MONTH_JULY":"Julio","JSN_UNIFORM_DATE_MONTH_AUGUST":"Agosto","JSN_UNIFORM_DATE_MONTH_SEPTEMBER":"Septiembre","JSN_UNIFORM_DATE_MONTH_OCTOBER":"Octubre","JSN_UNIFORM_DATE_MONTH_NOVEMBER":"Noviembre","JSN_UNIFORM_DATE_MONTH_DECEMBER":"Diciembre","JSN_UNIFORM_DATE_MONTH_JANUARY_SHORT":"Enero","JSN_UNIFORM_DATE_MONTH_FEBRUARY_SHORT":"Febrero","JSN_UNIFORM_DATE_MONTH_MARCH_SHORT":"Marzo","JSN_UNIFORM_DATE_MONTH_APRIL_SHORT":"Abril","JSN_UNIFORM_DATE_MONTH_MAY_SHORT":"Mayo","JSN_UNIFORM_DATE_MONTH_JUNE_SHORT":"Junio","JSN_UNIFORM_DATE_MONTH_JULY_SHORT":"Julio","JSN_UNIFORM_DATE_MONTH_AUGUST_SHORT":"Agosto","JSN_UNIFORM_DATE_MONTH_SEPTEMBER_SHORT":"Septiembre","JSN_UNIFORM_DATE_MONTH_OCTOBER_SHORT":"Octubre","JSN_UNIFORM_DATE_MONTH_NOVEMBER_SHORT":"Noviembre","JSN_UNIFORM_DATE_MONTH_DECEMBER_SHORT":"Diciembre","JSN_UNIFORM_DATE_DAY_SUNDAY":"Domingo","JSN_UNIFORM_DATE_DAY_MONDAY":"Lunes","JSN_UNIFORM_DATE_DAY_TUESDAY":"Martes","JSN_UNIFORM_DATE_DAY_WEDNESDAY":"Mi\u00e9rcoles","JSN_UNIFORM_DATE_DAY_THURSDAY":"Jueves","JSN_UNIFORM_DATE_DAY_FRIDAY":"Viernes","JSN_UNIFORM_DATE_DAY_SATURDAY":"S\u00e1bado","JSN_UNIFORM_DATE_DAY_SUNDAY_SHORT":"Domingo","JSN_UNIFORM_DATE_DAY_MONDAY_SHORT":"Lunes","JSN_UNIFORM_DATE_DAY_TUESDAY_SHORT":"Mar","JSN_UNIFORM_DATE_DAY_WEDNESDAY_SHORT":"Mier","JSN_UNIFORM_DATE_DAY_THURSDAY_SHORT":"Juev","JSN_UNIFORM_DATE_DAY_FRIDAY_SHORT":"Vier","JSN_UNIFORM_DATE_DAY_SATURDAY_SHORT":"Sab","JSN_UNIFORM_DATE_DAY_SUNDAY_MIN":"Do","JSN_UNIFORM_DATE_DAY_MONDAY_MIN":"Lu","JSN_UNIFORM_DATE_DAY_TUESDAY_MIN":"Ma","JSN_UNIFORM_DATE_DAY_WEDNESDAY_MIN":"Mi","JSN_UNIFORM_DATE_DAY_THURSDAY_MIN":"Ju","JSN_UNIFORM_DATE_DAY_FRIDAY_MIN":"Vi","JSN_UNIFORM_DATE_DAY_SATURDAY_MIN":"S\u00e1","JSN_UNIFORM_DATE_DAY_WEEK_HEADER":"Wk","JSN_UNIFORM_CONFIRM_FIELD_MAX_LENGTH":"La informaci\u00f3n no puede contener m\u00e1s de","JSN_UNIFORM_CONFIRM_FIELD_MIN_LENGTH":"La informaci\u00f3n no puede contener menos de","JSN_UNIFORM_CAPTCHA_PUBLICKEY":"JSN_UNIFORM_CAPTCHA_PUBLICKEY","JSN_UNIFORM_BUTTON_BACK":"Atr\u00e1s","JSN_UNIFORM_BUTTON_NEXT":"Siguiente","JSN_UNIFORM_BUTTON_RESET":"Reset","JSN_UNIFORM_BUTTON_SUBMIT":"Enviar","JSN_UNIFORM_CONFIRM_FIELD_CANNOT_EMPTY":"Este campo no est\u00e1 vac\u00edo, por favor introduzca la informaci\u00f3n requerida.","JSN_UNIFORM_CONFIRM_FIELD_INVALID":"La informaci\u00f3n es incorrecta, por favor corrija.","JSN_UNIFORM_WORDS_LEFT":"word(s) left","JSN_UNIFORM_CHARACTERS_LEFT":"character(s) left","JSN_UNIFORM_VALIDATION_FAILS":"Please correct the data of this field. An example of valid data is: %s","JSN_UNIFORM_MAX_LENGTH_ALERT":"The length of inputted value is greater than the maximum length of %d characters allowed for this field."}'></span><span class="hide jsn-base-url" style="display:none;" data-value="http://jcdiseno.com"></span><div id="page-loading" class="jsn-bgloading"><i class="jsn-icon32 jsn-icon-loading"></i></div><div class="jsn-row-container jsn-style-light vertical"><div class="message-uniform"> </div><div data-value="1" class="jsn-form-content hide"><div class='jsn-row-container row-fluid jsn-uf-row-container'><div class="jsn-container-left span12"><div class="control-group  single_line_text_12978755312_4_3 " data-id="5-jsn-uf-form-field"><label  class="control-label">Su nombre<span class="required">*</span></label><div class="controls blank-required"><input  class=" jsn-input-medium-fluid" id="5-jsn-uf-form-field" name="5" type="text" value="" placeholder=""  /></div></div>
+<div class="control-group  email_68014754611_48_30 " data-id="2-jsn-uf-form-field"><label  class="control-label">Email<span class="required">*</span></label><div class="controls"><input class="email email-required jsn-input-medium-fluid" id="2-jsn-uf-form-field" name="2" type="text" value="" placeholder="" /></div></div>
+<div class="control-group  single_line_text_63949203011_49_39 " data-id="3-jsn-uf-form-field"><label  class="control-label">Asunto<span class="required">*</span></label><div class="controls blank-required"><input  class=" jsn-input-medium-fluid" id="3-jsn-uf-form-field" name="3" type="text" value="" placeholder=""  /></div></div>
+<div class="control-group  paragraph_text_30756336611_50_10 " data-id="4-jsn-uf-form-field"><label  class="control-label">Mensaje<span class="required">*</span></label><div class="controls blank-required"><textarea  rows="8" class="  jsn-input-xlarge-fluid" id="4-jsn-uf-form-field" name="4" placeholder=""></textarea></div></div></div></div><div class="control-group">
+									<div class="controls">
+									<div class="row-fluid"><img class="jsn-captcha-image" src="data:image/png;base64,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" alt="CAPTCHA" /></div>
+									<input type="text" id="jsn-captcha" name="captcha" autocomplete="off" placeholder="Captcha">
+									<a href="javascript:void(0)" class="jsn-refresh-captcha" data-token="abf2560a3310cd6014c63d40d96a6921" data-namespace="50082dbdf8fbb5d41b8e143087b18fb0">
+										<span class="icon-loop"></span>
+									</a>
+									</div>
+									</div></div><div class="form-actions">
+									<div class="btn-toolbar">
+									    <button class="btn prev hide" onclick="return false;">PREV</button>
+									    <button class="btn  btn-primary next hide" onclick="return false;">NEXT</button>
+									    <button class="btn reset" onclick="return false;" style="display:none">Restablecer</button>
+									    <button type="submit" class="btn btn-primary jsn-form-submit " >ENVIAR</button>
+									</div>
+								     </div><div class="jsn-text-center"><a href="http://www.joomlashine.com/joomla-extensions/jsn-uniform.html" target="_blank">Constructor de formularios de Joomla</a> by JoomlaShine</div><input type="hidden" name="form_name" value="50082dbdf8fbb5d41b8e143087b18fb0" /></div><input type="hidden" name="task" value="form.save" /><input type="hidden" name="option" value="com_uniform" /><input type="hidden" name="form_id" value="1" /><input type="hidden" id="ajax_upload_file" name="ajax_upload_file" value="0" /><input type="hidden" id="use_payment_gateway" name="use_payment_gateway" value="0" /><input type="hidden" id="list_choosen_field" name="list_choosen_field" value="" /><input type="hidden" id="form_post_action" name="form_post_action" value="0" /><input type="hidden" name="form_post_action_data" value='' /><input type="hidden" name="form_post_session_lifetime" value="300000" /><input type="hidden" name="form_post_path_root" value="/index.php" /><input type="hidden" name="abf2560a3310cd6014c63d40d96a6921" value="1" /></form></div></div>		</div>
+	
+
+                    </div>
+                </div>
+            </section>
+            <!-- section close -->
+						
+			
+			
+			<!--blog section start-->
+			
+				<div class="container">
+					<div class="row">
+										<div class="col-md-12">
+						<!-- Begin Content -->
+						<div id="system-message-container">
+	</div>
+
+						<div class="blog-featured" itemscope itemtype="http://schema.org/Blog">
+
+
+
+
+</div>
+
+						<!-- End Content -->
+					</div>
+										</div>
+				</div>
+			
+			
+            <!-- footer begin -->
+            <footer>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                           										<div class="moduletable">
+						 
+
+
+				
+											<div class="social-icons">
+													                                                    <a href="http://www.facebook.com/JC-Diseño-1440086592681716"><i class="fa fa-facebook fa-lg"></i></a>
+																										                                                    <a href="http://twitter.com/jcdisenomx"><i class="fa fa-twitter fa-lg"></i></a>
+																																																																	<a href="http://www.linkedin.com/in/jaime-ch%C3%A1vez-zu%C3%B1iga-52003613a/"><i class="fa fa-linkedin fa-lg"></i></a>
+																																																																												</div>
+							
+
+				
+	
+
+
+
+				
+				 
+				
+							</div>
+	
+							                            <div class="spacer-single"></div>
+							&copy; Copyright 2020 - jc Diseño .Diseñado y Desarrollado por GEOH TI.
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- footer close -->
+        </div>
+    </div>
+
+
+    <!-- Javascript Files
+    ================================================== -->
+	<script type="text/javascript" src="/templates/cubic/js/jpreLoader.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/jquery.prettyPhoto.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/easing.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/jquery.ui.totop.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/jquery.flexslider-min.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/jquery.scrollto.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/owl.carousel.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/jquery.countTo.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/classie.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/video.resize.js"></script>
+	<script type="text/javascript" src="/templates/cubic/js/designesia.js"></script>
+	<script type="text/javascript" src="/templates/cubic/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+	<script type="text/javascript" src="/templates/cubic/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+   
+  
+
+</body>
+
+
+</html>

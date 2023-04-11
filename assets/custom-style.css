@@ -1,0 +1,136 @@
+/* section background
+/* -------------------------------------------------- */
+#subheader{background-image:url(../images/bg-subheader.jpg); background-position:center; background-attachment:fixed;background-size: cove}
+#fun-facts{background:url(../images/bg-3.jpg) top fixed;}
+#info-address{background:url(../images/bg-3.jpg) top fixed;}
+#section-about-us-2 .image-container{background:url(../images/bg-side-1.jpg);}
+#section-contact{ background-image:url(./bg-4.jpg); background-position:center; background-attachment:fixed;background-size: cover}
+#section-skill-bar{ background:url(../images/bg-8.jpg) top fixed;}
+#section-testimonial{ background:url(../images/bg-2.jpg) top fixed;}
+
+
+#logo-full{ background:#000; padding:60px 0 60px 0;}
+#view-all-projects{background:#22287b; padding:60px 0 60px 0;}
+#section-about-us-2{background:#f8f8f8; height:100%;}
+.dark #section-about-us-2{background:#222; height:100%;}
+.dark #section-portfolio{background:#222;}
+
+.de-team-list .inner{position:relative;}
+.de-team-list .team-desc {
+width:100%;
+height:262px;
+-webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+.de-team-list .img-responsive {
+width:100%;
+-webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+  }
+.de-team-list .team-pic {height:262px;}
+.de-team-list:hover .team-desc {
+position: absolute;
+  margin-top: -262px;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+  }
+.de-team-list:hover .img-responsive {
+margin-top:-100px;
+-webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+
+footer{margin-top:-1px;}
+.btn{border-radius:0px;}
+
+
+@media (max-width: 992px) and (min-width: 633px){
+.col-md-3 { width: 50%; float:left;}
+}
+@media (max-width: 632px) and (min-width: 321px){
+.col-md-3 { width: 100%; float:left;}
+.de-team-list .team-pic {width:345px; height: 345px; max-width:100%; max-height:100%;}
+.de-team-list .team-desc {width:345px;height: 345px;max-width:100%; max-height:100%;}
+.de-team-list:hover .team-desc {position: absolute; margin-top: -345px;}
+}
+
+@media (max-width: 320px){
+.col-md-3 { width: 100%; float:left;}
+.de-team-list .team-pic {width:260px; height: 260px; max-width:100%; max-height:100%;}
+.de-team-list .team-desc {width:260px;height: 260px;max-width:100%; max-height:100%;}
+.de-team-list:hover .team-desc {position: absolute; margin-top: -260px;}
+}
+a,a:hover, a:focus{outline:0px;}
+
+	.dark{
+	background:#333439;
+	color:#eee;
+	}
+	.dark #content{
+	background:#333439;
+	color:#bbb;
+	}
+	.dark section{background:#111;}
+	.dark .post-meta{background:#666; color:#eee;}
+	.dark .post-meta a{color:#eee;}
+	.dark .post-meta {border: solid 1px #999;}
+	.dark .post-meta span { border-left: solid 1px #999;}
+	.dark .items_mask {
+	  border: 1px solid #999;
+	  background: #666;
+	}
+
+	.dark ul.tabs_container li.tab.active span {
+	  background-color: #666;
+	  border-bottom: 1px solid #666;
+	}
+	.dark ul.tabs_container li.tab span {
+	  border-top: 3px solid #F06807;
+	  border-bottom: 1px solid #999;
+	  border-left: 1px solid #999;
+	  border-right: 1px solid #999;
+	  background: #666;
+	  color: #fff;
+	}
+
+	.dark .widget_category li {
+	  border: solid 1px #999;
+	  background: #666;
+	}
+	.dark .widget_category li a {color: #eee;}
+	.dark .widget {border-bottom: solid 1px #999;}
+	.dark a:hover, .dark a:focus {
+	  color: #F06807;
+	  text-decoration: none;
+	}
+	.dark .sp_tab_sidebar {
+	  border-bottom: 1px solid #999;
+	}
+	.dark #commentform textarea:focus {
+	background: #333439;
+	}
+	
+	.dark div.itemAuthorBlock {
+	background: #333439;
+	}
+	.dark div.itemAuthorBlock img.itemAuthorAvatar {
+	background: #333439;
+	}
+	
+	.dark div.itemComments {
+	background: #333439;
+	}
+	
+	.dark div.itemComments ul.itemCommentsList li img {
+	background: #333439;
+	}
+	.dark div.itemFullText,.dark div.itemIntroText {color: #eee;}
+	.box-fx .info{width:100%; height:100%;}
